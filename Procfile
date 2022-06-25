@@ -1,1 +1,1 @@
-web: uwsgi uwsgi.ini
+web: C:\Users\VJain\Documents\Python Scripts\section_8_rest_api uwsgi.ini
